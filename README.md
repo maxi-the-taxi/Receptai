@@ -2,7 +2,7 @@ Tadas daro:
 > kzn, parašyk
 
 Dovydas daro:
-> tavo mam
+> tavo mama...
 > css failus
 
 Koki bus receptai: 
