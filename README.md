@@ -2,7 +2,7 @@ Tadas daro:
 > nelabai kas belieka, html failas i guess
 
 Dovydas daro:
-> tavo mama...
+> tavo mam-...
 > css failus
 
 Koki bus receptai: 
