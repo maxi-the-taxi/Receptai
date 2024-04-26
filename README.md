@@ -1,5 +1,5 @@
 Tadas daro:
-> nelabai kas beliekqa, html failas i guess
+> nelabai kas belieka, html failas i guess
 
 Dovydas daro:
 > tavo mama...
