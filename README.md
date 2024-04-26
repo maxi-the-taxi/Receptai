@@ -1,1 +1,0 @@
-Sveiki ir geros dienos!!!!
