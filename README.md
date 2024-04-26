@@ -1,5 +1,5 @@
 Tadas daro:
-> kzn, parašyk
+> nelabai kas beliekqa, html failas i guess
 
 Dovydas daro:
 > tavo mama...
