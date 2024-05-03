@@ -15,3 +15,7 @@ table {
 .pirmaEilute{
     height: 100px;
 }
+.receptas:hover
+{
+    color:rgb(224, 62, 21)
+}
