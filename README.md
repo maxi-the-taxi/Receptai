@@ -12,6 +12,6 @@ Koki bus receptai:
 
 
 
-https://html-preview.github.io/?url=*musu github failo linkas"
+https://html-preview.github.io/?url= "musu github failo linkas"
 
 pvz - https://html-preview.github.io/?url=https://github.com/maxi-the-taxi/Receptai/blob/main/receptai/index.html
