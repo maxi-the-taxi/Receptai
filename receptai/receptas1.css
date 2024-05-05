@@ -1,0 +1,31 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    color: rgb(137, 84, 19);
+    background-color: rgb(208, 177, 140);
+    text-align: center;
+}
+h2
+{
+    font-size: x-large;
+    color: rgb(137, 84, 19);
+}
+.pav
+{
+    height: 500px;
+}
+ul, ol
+{
+    color: rgb(136, 41, 27);
+    text-align: justify;
+    line-height: 2;
+    padding-right: 20px;
+}
+table, td
+{
+    border: rgb(151, 45, 21) 1px solid;
+    vertical-align: top;
+    text-align: center;
+    margin: auto;
+}
