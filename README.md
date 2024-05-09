@@ -1,3 +1,4 @@
+
 Tadas daro:
 > nelabai kas belieka, html failas i guess
 
@@ -15,3 +16,40 @@ Koki bus receptai:
 https://html-preview.github.io/?url= "musu github failo linkas"
 
 pvz - https://html-preview.github.io/?url=https://github.com/maxi-the-taxi/Receptai/blob/main/receptai/index.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright owned by Agrastai co. Ltd.
+
+Any unapproved use of content will result in a lawsuit (just give prezo bandele to duckman and its all good)
