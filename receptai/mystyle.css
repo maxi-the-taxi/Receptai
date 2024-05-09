@@ -9,10 +9,20 @@ table, td {
     border-collapse: collapse;
 }
 table {
-    width: 70%;
     margin:auto;
+}
+.pirmaEilute{
+    height: 50px;
 }
 .receptas:hover
 {
     color:rgb(224, 62, 21)
+}
+.nuotrauka:hover
+{
+    color:rgb(224, 62, 21)
+}
+.nuotrauka
+{
+    height: 50px
 }
