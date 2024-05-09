@@ -10,10 +10,10 @@ table, td {
 }
 td
 {
-    max-height: 50px;
+    height: 50px;
 }
 table {
-    margin:auto;
+    width: 50%;
 }
 .receptas:hover
 {
