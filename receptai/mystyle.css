@@ -7,13 +7,13 @@ h1 {
 table, td {
     border: 1px solid black;
     border-collapse: collapse;
+    align-self: center;
+    text-align: center;
+    font-size: 35px;
 }
 td
 {
     height: 50px;
-}
-table {
-    width: 50%;
 }
 .receptas:hover
 {
