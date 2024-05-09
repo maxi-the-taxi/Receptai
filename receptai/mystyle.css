@@ -12,8 +12,8 @@ td
 {
     max-height: 50px;
 }
-.pirmaEilute{
-    height: 50px;
+table {
+    margin:auto;
 }
 .receptas:hover
 {
@@ -22,8 +22,4 @@ td
 .nuotrauka:hover
 {
     color:rgb(224, 62, 21)
-}
-.nuotrauka
-{
-    height: 50px;
 }
