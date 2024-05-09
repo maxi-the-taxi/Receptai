@@ -8,8 +8,9 @@ table, td {
     border: 1px solid black;
     border-collapse: collapse;
 }
-table {
-    margin:auto;
+td
+{
+    max-height: 50px;
 }
 .pirmaEilute{
     height: 50px;
