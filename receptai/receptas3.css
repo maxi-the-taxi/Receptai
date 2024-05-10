@@ -19,14 +19,14 @@ h2
 }
 ul, ol
 {
-    color: rgb(136, 41, 27);
+    color: rgb(94, 112, 38);
     text-align: justify;
     line-height: 2;
     padding-right: 20px;
 }
 table, td
 {
-    border: rgb(151, 45, 21) 1px solid;
+    border: rgb(84, 100, 35) 1px solid;
     vertical-align: top;
     text-align: center;
     margin: auto;
