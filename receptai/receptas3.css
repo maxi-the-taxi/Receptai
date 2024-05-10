@@ -1,1 +1,33 @@
-
+body
+{
+    background-color: rgba(188, 226, 73, 0.39);
+}
+h1
+{
+    color: rgb(94, 112, 38);
+    background-color: rgb(160, 192, 63);
+    text-align: center;
+}
+h2
+{
+    font-size: x-large;
+    color: rgb(94, 112, 38);
+}
+.pav
+{
+    height: 556px;
+}
+ul, ol
+{
+    color: rgb(136, 41, 27);
+    text-align: justify;
+    line-height: 2;
+    padding-right: 20px;
+}
+table, td
+{
+    border: rgb(151, 45, 21) 1px solid;
+    vertical-align: top;
+    text-align: center;
+    margin: auto;
+}
