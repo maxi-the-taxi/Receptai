@@ -31,3 +31,23 @@ table, td
     text-align: center;
     margin: auto;
 }
+.h:link 
+{
+    text-decoration: none;
+    color: rgb(94, 112, 38);
+}
+.h:visited
+{
+    text-decoration: none;
+    color: rgb(94, 112, 38);
+}
+.h:hover
+{
+    text-decoration: none;
+    color: rgb(94, 112, 38);
+}
+.h:active
+{
+    text-decoration: none;
+    color: rgb(94, 112, 38);
+}
