@@ -3,3 +3,46 @@ body
     background-image: url('./images/background.jpg');
     background-repeat: no-repeat;
 }
+table, td
+{
+    border: 2px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 35px;
+    vertical-align: top;
+    text-align: center;
+    margin: auto;
+    color:white;
+}
+ul, ol
+{
+    color: rgb(255, 255, 255);
+}
+td
+{
+    height: 50px;
+}
+.ntrk
+{
+    height:300px;
+}
+.h:link 
+{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.h:visited
+{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.h:hover
+{
+    text-decoration: none;
+    color: rgb(165, 165, 165);
+}
+.h:active
+{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+}

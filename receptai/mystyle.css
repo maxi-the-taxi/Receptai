@@ -38,6 +38,7 @@ td
 .receptas:hover
 {
     text-decoration: none;
+    color: rgb(165, 165, 165);
 }   
 .receptas:visited
 {

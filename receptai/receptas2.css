@@ -42,10 +42,10 @@ table, td
 .h:hover
 {
     text-decoration: none;
-    color: rgb(137, 19, 129);
+    color: rgb(103, 14, 97);
 }
 .h:active
 {
     text-decoration: none;
-    color: rgb(137, 19, 129);
+    color:rgb(224, 62, 21);
 }
